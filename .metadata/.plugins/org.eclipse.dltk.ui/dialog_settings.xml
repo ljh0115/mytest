@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item value="530" key="height"/>
+		<item value="557" key="width"/>
+		<item value="162" key="y"/>
+		<item value="682" key="x"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.TypeSelectionComponent">
+		<item value="true" key="show_status_line"/>
+	</section>
+</section>

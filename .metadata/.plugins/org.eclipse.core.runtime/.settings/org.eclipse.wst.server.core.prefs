@@ -1,0 +1,4 @@
+#Wed Mar 27 08:47:35 CST 2019
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="J2EE Runtime Library" location\="E\:/JAVA/\u5B89\u88C5\u5305/tomcat/apache-tomcat-7.0.92" name\="J2EE Runtime Library" runtime-type-id\="org.eclipse.jst.server.core.runtimeType" timestamp\="0"/>\r\n  <runtime id\="J2EE Preview" name\="J2EE Preview" runtime-type-id\="org.eclipse.jst.server.preview.runtime" timestamp\="0"/>\r\n  <runtime id\="Apache Tomcat v6.0" location\="E\:/JAVA/\u5B89\u88C5\u5305/tomcat/apache-tomcat-7.0.92" name\="Apache Tomcat v6.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.60" timestamp\="0"/>\r\n</runtimes>\r\n
+eclipse.preferences.version=1

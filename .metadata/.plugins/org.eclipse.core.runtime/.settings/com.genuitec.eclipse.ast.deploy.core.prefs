@@ -1,0 +1,13 @@
+#Mon Mar 25 11:28:09 CST 2019
+tomcat7Server.MyJSP.isDeployed=true
+tomcat7Server.MyJSP.shouldOverwrite=false
+tomcat7Server.MyJSP.IEARProjectName=
+tomcat7Server.MyJSP.altContextRoot=
+tomcat7Server.MyJSP.type=WebDeployment
+tomcat7Server.MyJSP.contextRoot=/MyJSP
+tomcat7Server.MyJSP.deploymentPath=E\:\\JAVA\\\u5B89\u88C5\u5305\\tomcat\\apache-tomcat-7.0.92\\webapps\\MyJSP
+eclipse.preferences.version=1
+tomcat7Server.MyJSP.isExploded=true
+tomcat7Server.MyJSP.isUptoDate=true
+tomcat7Server.MyJSP.deployIsOverProject=false
+tomcat7Server.MyJSP.shouldBackup=false

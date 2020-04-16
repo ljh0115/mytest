@@ -1,0 +1,5 @@
+configMode=contextFiles
+contextsDir=\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+tomcatConfigFile=\\conf\\server.xml
+tomcatVersion=tomcatV3

@@ -1,0 +1,16 @@
+import java.sql.Connection;
+
+
+public class JDBCUtil {
+	//获取连接
+	public static Connection getConn(){
+		Connection conn=null;
+		try {
+			Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver")
+		} catch (e) {
+			// TODO: handle exception
+		}
+		return null;
+		
+	}
+}

@@ -1,0 +1,12 @@
+package Demo1;
+
+public class Account1 {
+	public static void main(String[] args) {
+		Account a=new Account();
+		a.password=123546;
+		a.balance=12500.00;
+		a.money=1000.00;
+		a.deposit();
+		a.withdraw();
+	}
+}

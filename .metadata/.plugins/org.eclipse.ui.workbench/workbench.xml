@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="38" version="2.0">
+<workbenchAdvisor/>
+<window height="925" width="1187" x="408" y="91">
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.ui.views.PropertySheet"/>
+<orientation position="512" view="org.eclipse.jdt.ui.PackageExplorer"/>
+<orientation position="512" view="com.genuitec.eclipse.sqlexplorer.views.DatabaseView"/>
+<orientation position="512" view="org.eclipse.wst.server.ui.ServersView"/>
+</fastViewData>
+<perspectiveBar>
+<itemSize x="158"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="149" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.genuitec.eclipse.j2eedt.core.ejb" itemType="typeToolBarContribution" x="55" y="22"/>
+<coolItem id="com.genuitec.eclipse.uml.actions" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="com.genuitec.eclipse.web20.actionset" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="com.genuitec.eclipse.ws.xfire.actions" itemType="typeToolBarContribution" x="95" y="22"/>
+<coolItem id="com.genuitec.myeclipse.actions.deploytools" itemType="typeToolBarContribution" x="101" y="22"/>
+<coolItem id="com.genuitec.myeclipse.actions.desktop" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="com.genuitec.myeclipse.actions.reporting" itemType="typeToolBarContribution" x="78" y="22"/>
+<coolItem id="com.genuitec.myeclipse.actions.screencapture" itemType="typeToolBarContribution" x="55" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="135" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="101" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="95" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="147" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="107" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="198" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.genuitec.ui.browser.editor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.genuitec.eclipse.webdesigner3.editors.jsp" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" itemType="typePlaceholder" x="38" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1536301965652" focus="true" label="Workspace - WTP Java EE (MyEclipse incompatible)">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="aa.jsp" partName="aa.jsp" path="E:/JAVA/练习/lianxi/MyJSP/WebContent/aa.jsp" title="aa.jsp" tooltip="MyJSP/WebContent/aa.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MyJSP/WebContent/aa.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Logininfo.java" partName="Logininfo.java" path="E:/JAVA/练习/lianxi/BookManagerSystem/src/com/hopu/bms/Logininfo.java" title="Logininfo.java" tooltip="BookManagerSystem/src/com/hopu/bms/Logininfo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BookManagerSystem/src/com/hopu/bms/Logininfo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="567"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTradersTransactions.java" partName="TestTradersTransactions.java" title="TestTradersTransactions.java" tooltip="D:\组长：廖志雄\吕世达\TestTradersTransactions.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/D:/组长：廖志雄/吕世达/TestTradersTransactions.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3545" selectionTopPixel="2374"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" title="Test.java" tooltip="D:\组长：廖志雄\徐彝研\Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/D:/组长：廖志雄/徐彝研/Test.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="804" selectionTopPixel="2"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.birt.report.designer.ui.attributes.AttributeView" partName="Property Editor">
+<viewState/>
+</view>
+<view id="com.genuitec.eclipse.sqlexplorer.views.TableInfoView" partName="Table/Object Info"/>
+<view id="org.eclipse.gef.ui.palette_view" partName="Palette">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.genuitec.eclipse.ast.deploy.core.serverview" partName="Servers">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">&#x0A;<xmlDefinedFilters>&#x0A;<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.maven.ide.eclipse.MavenModuleFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.birt.report.designer.ui.lib.explorer.view" partName="Library Explorer"/>
+<view id="com.genuitec.eclipse.sqlexplorer.views.DatabaseView" partName="DB Browser">
+<viewState/>
+</view>
+<view id="org.eclipse.birt.report.designer.ui.views.data.DataView" partName="Data Explorer"/>
+<view id="org.eclipse.help.ui.HelpView" partName="Help">
+<viewState pageId="context-help-page"/>
+</view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers">
+<viewState CommonNavigator.LINKING_ENABLED="0"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.genuitec.myeclipse.perspective.MyEclipsePerspectiveFactory" id="com.genuitec.myeclipse.perspective.myeclipseperspective" label="MyEclipse Java Enterprise"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.test.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.desktop"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.screencapture"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.examples.actionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.hibernatetools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webtools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.j2eedt.core.ejb"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jsftools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.faceletstools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.maven.pro.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jpatools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.portlet.portletactions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.reporting"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.springtools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.strutstools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.tapestrytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.restsupport"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.ws.xfire.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webservices"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.JavaScriptActionSet"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.A_OpenActionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.icefaces"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.about.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.product.actions"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.matcher.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.search.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.uml.actions"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.uml2.ui.actions"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.web20.actionset"/>
+<show_view_action id="com.genuitec.eclipse.ui.HTMLView"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="uky.article.imageviewer.views.ImageView"/>
+<show_view_action id="com.genuitec.eclipse.ast.deploy.core.serverview"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<new_wizard_action id="org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewEntityEJBWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewMessageDrivenEJBWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewSessionEJBWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewSessionEJBWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewEntityEJBWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewMessageDrivenEJBWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.NewEARProjectWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.EJBProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.WebProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.ws.xfire.wizards.NewXFireWebProjectWizard1"/>
+<new_wizard_action id="com.genuitec.eclipse.dehory.newformwizard"/>
+<new_wizard_action id="com.genuitec.eclipse.uml.wizard.NewUMLModelFileWizard"/>
+<new_wizard_action id="com.aston.wizards.servlet.NewServletCreationWizard"/>
+<new_wizard_action id="com.aston.wizards.jsp.NewJspCreationWizard"/>
+<new_wizard_action id="com.aston.wizards.html.NewHtmlCreationWizard"/>
+<new_wizard_action id="com.aston.wizards.xhtml.NewXhtmlCreationWizard"/>
+<new_wizard_action id="com.aston.wizards.applet.NewAppletCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.ws.xfire.wizards.serverwizard"/>
+<new_wizard_action id="com.genuitec.eclipse.ws.xfire.wizards.clientwizard"/>
+<new_wizard_action id="com.genuitec.eclipse.ws.xfire.wsdlWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewActionCreationWizardX1_0"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewActionAndFormCreationWizardX1_0"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewForwardCreationWizardX1_0"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewFormCreationWizardX1_0"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewDatasourceCreationWizardX1_0"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewFormCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewActionCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewActionAndFormCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewForwardCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewExceptionCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewMessageResourcesCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewDatasourceCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewPluginCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewModuleCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewFormCreationWizardX1_2"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewActionCreationWizardX1_2"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewActionAndFormCreationWizardX1_2"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewForwardCreationWizardX1_2"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewExceptionCreationWizardX1_2"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewMessageResourcesCreationWizardX1_2"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewDatasourceCreationWizardX1_2"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewPluginCreationWizardX1_2"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewModuleCreationWizardX1_2"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewFormCreationWizardX1_3"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewActionCreationWizardX1_3"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewActionAndFormCreationWizardX1_3"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewForwardCreationWizardX1_3"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewExceptionCreationWizardX1_3"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewMessageResourcesCreationWizardX1_3"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewPluginCreationWizardX1_3"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.wizards.NewModuleCreationWizardX1_3"/>
+<new_wizard_action id="com.aston.wizards.xml.NewXmlCreationWizard"/>
+<new_wizard_action id="org.eclipse.wst.xsd.ui.internal.wizards.NewXSDWizard"/>
+<new_wizard_action id="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard"/>
+<new_wizard_action id="org.eclipse.wst.xml.ui.XMLExampleProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.reporting.projectwizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jst.ws.internal.consumption.ui.wizard.client.clientwizard"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.jst.ws.internal.uddiregistry.widgets.binding.PrivateUDDIWidgetBinding"/>
+<new_wizard_action id="org.eclipse.wst.command.env.ui.AntFileImportWizard"/>
+<new_wizard_action id="org.eclipse.wst.wsdl.ui"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.wst.xml.ui.XMLExampleProjectCreationWizard"/>
+<new_wizard_action id="org.eclipse.jst.jsp.ui.internal.wizard.NewJSPWizard"/>
+<new_wizard_action id="org.eclipse.jst.jsp.ui.internal.wizard.NewTagWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddFilterWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddListenerWizard"/>
+<new_wizard_action id="org.eclipse.wst.css.ui.internal.wizard.NewCSSWizard"/>
+<new_wizard_action id="org.eclipse.wst.html.ui.internal.wizard.NewHTMLWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.dtd.ui.internal.wizard.NewDTDWizard"/>
+<new_wizard_action id="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard"/>
+<new_wizard_action id="org.eclipse.wst.xsd.ui.internal.wizards.NewXSDWizard"/>
+<new_wizard_action id="org.eclipse.wst.xsl.ui.internal.wizards.NewStylesheetWizard"/>
+<perspective_action id="com.genuitec.eclipse.dehory.dehoryperspective"/>
+<perspective_action id="com.genuitec.eclipse.hibernate.perspective.HibernatePerspective"/>
+<perspective_action id="com.genuitec.eclipse.imageeditor.perspective"/>
+<perspective_action id="com.genuitec.dali.adapter.persistencePerspective"/>
+<perspective_action id="com.genuitec.eclipse.reporting.ReportPerspective"/>
+<perspective_action id="com.genuitec.eclipse.sqlexplorer.perspectives.SQLExplorerPluginPerspective"/>
+<perspective_action id="com.genuitec.eclipse.uml.umlPerspective"/>
+<perspective_action id="com.genuitec.eclipse.web20.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<fastViewBars>&#x0A;<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@3112cf" orientation="512" selectedTabId="com.genuitec.eclipse.ast.deploy.core.serverview" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.ui.views.TaskList" ratio="0.2992345"/>
+<view id="com.genuitec.eclipse.ui.HTMLView" ratio="0.8498674"/>
+<view id="com.genuitec.eclipse.ast.deploy.core.serverview" ratio="0.29973474"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="stickyFolderRight" orientation="512" selectedTabId="org.eclipse.help.ui.HelpView" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.help.ui.HelpView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="cvslocation">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.749499" ratioLeft="748" ratioRight="250" relationship="2" relative="cvslocation">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.15568544" ratioLeft="293" ratioRight="1589" relationship="2" relative="cvslocation"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@12b71eb" ratio="0.74968714" ratioLeft="599" ratioRight="200" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1441dc0" ratio="0.549763" ratioLeft="348" ratioRight="285" relationship="4" relative="org.eclipse.ui.internal.ViewStack@12b71eb">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="bottom" ratio="0.7488152" ratioLeft="474" ratioRight="159" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@3112cf" ratio="0.8635032" ratioLeft="1474" ratioRight="233" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="com.genuitec.eclipse.ui.HTMLView" label="LabelNotFound"/>
+<page content="com.genuitec.eclipse.ast.deploy.core.serverview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="topleft" ratio="0.39968404" ratioLeft="253" ratioRight="380" relationship="4" relative="cvslocation">&#x0A;<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="bottomleft" ratio="0.549763" ratioLeft="348" ratioRight="285" relationship="4" relative="topleft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="uky.article.imageviewer.views.ImageView" label="LabelNotFound"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.test.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.desktop"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.screencapture"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.examples.actionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.hibernatetools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webtools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.j2eedt.core.ejb"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jsftools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.faceletstools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.maven.pro.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jpatools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.portlet.portletactions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.reporting"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.springtools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.strutstools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.tapestrytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.restsupport"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.ws.xfire.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webservices"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.JavaScriptActionSet"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.A_OpenActionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.icefaces"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.about.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.product.actions"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.matcher.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.search.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.web20.actionset"/>
+<alwaysOnActionSet id="fr.obeo.acceleo.gen.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.springframework.ide.eclipse.aop.ui.navigator.aopReferenceModelNavigator"/>
+<show_view_action id="org.springframework.ide.eclipse.aop.ui.tracing.eventTraceView"/>
+<show_view_action id="org.springframework.ide.eclipse.ui.navigator.springExplorer"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.reporting.projectwizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.EJBProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.NewEARProjectWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.WebProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.ws.xfire.wizards.NewXFireWebProjectWizard1"/>
+<new_wizard_action id="org.eclipse.birt.report.designer.ui.ide.wizards.NewReportWizard"/>
+<new_wizard_action id="org.eclipse.birt.report.designer.ui.ide.wizards.NewTemplateWizard"/>
+<new_wizard_action id="org.eclipse.birt.report.designer.ui.wizards.NewLibraryWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="com.genuitec.eclipse.dehory.dehoryperspective"/>
+<perspective_action id="com.genuitec.eclipse.hibernate.perspective.HibernatePerspective"/>
+<perspective_action id="com.genuitec.eclipse.imageeditor.perspective"/>
+<perspective_action id="com.genuitec.dali.adapter.persistencePerspective"/>
+<perspective_action id="com.genuitec.eclipse.reporting.ReportPerspective"/>
+<perspective_action id="com.genuitec.eclipse.sqlexplorer.perspectives.SQLExplorerPluginPerspective"/>
+<perspective_action id="com.genuitec.eclipse.uml.umlPerspective"/>
+<perspective_action id="com.genuitec.myeclipse.perspective.myeclipseperspective"/>
+<perspective_action id="com.genuitec.eclipse.web20.perspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<fastViewBars>&#x0A;<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@3bc6cd" orientation="512" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.ui.console.ConsoleView" ratio="0.5285253"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@1633bbd" orientation="512" selectedTabId="org.eclipse.jdt.ui.PackageExplorer" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.jdt.ui.PackageExplorer" ratio="0.22658773"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="bottom" orientation="256" selectedTabId="com.genuitec.eclipse.sqlexplorer.views.SQLResultsView" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.JavadocView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.SourceView" ratio="0.29922992"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="stickyFolderRight" orientation="512" selectedTabId="org.eclipse.help.ui.HelpView" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.help.ui.HelpView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="left" orientation="256" selectedTabId="org.eclipse.jdt.ui.TypeHierarchy" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.jdt.ui.TypeHierarchy" ratio="0.29812983"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@1633bbd">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="left" ratio="0.16927224" ratioLeft="314" ratioRight="1541" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1633bbd">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="left">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2335382" ratioLeft="266" ratioRight="873" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.9679912" ratioLeft="877" ratioRight="29" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.7496513" ratioLeft="1075" ratioRight="359" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.springframework.ide.eclipse.aop.ui.navigator.aopReferenceModelNavigator" ratio="0.5" ratioLeft="353" ratioRight="353" relationship="4" relative="right"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1ce994b" ratio="0.5" ratioLeft="353" ratioRight="353" relationship="4" relative="right">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.springframework.ide.eclipse.ui.navigator.springExplorer" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1df9485" ratio="0.8273114" ratioLeft="1557" ratioRight="325" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1f79b5" ratio="0.75" ratioLeft="1260" ratioRight="420" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@e97281" ratio="0.74960214" ratioLeft="1413" ratioRight="472" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@e423cf" ratio="0.7366667" ratioLeft="884" ratioRight="316" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@3bc6cd" ratio="0.74979216" ratioLeft="902" ratioRight="301" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.test.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.desktop"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.screencapture"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.examples.actionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.hibernatetools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webtools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.j2eedt.core.ejb"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jsftools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.faceletstools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.maven.pro.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jpatools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.portlet.portletactions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.reporting"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.springtools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.strutstools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.tapestrytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.restsupport"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.ws.xfire.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webservices"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.JavaScriptActionSet"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.A_OpenActionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.icefaces"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.about.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.product.actions"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.matcher.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.search.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.web20.actionset"/>
+<alwaysOnActionSet id="fr.obeo.acceleo.gen.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.dltk.debug.ui.ScriptDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.genuitec.eclipse.ast.deploy.core.serverview"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.datatools.sqltools.result.resultView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.dltk.debug.ui.ScriptDisplayView"/>
+<show_view_action id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<new_wizard_action id="org.eclipse.birt.report.designer.ui.ide.wizards.NewReportWizard"/>
+<new_wizard_action id="org.eclipse.birt.report.designer.ui.ide.wizards.NewTemplateWizard"/>
+<new_wizard_action id="org.eclipse.birt.report.designer.ui.wizards.NewLibraryWizard"/>
+<perspective_action id="com.genuitec.eclipse.dehory.dehoryperspective"/>
+<perspective_action id="com.genuitec.eclipse.hibernate.perspective.HibernatePerspective"/>
+<perspective_action id="com.genuitec.eclipse.imageeditor.perspective"/>
+<perspective_action id="com.genuitec.dali.adapter.persistencePerspective"/>
+<perspective_action id="com.genuitec.eclipse.sqlexplorer.perspectives.SQLExplorerPluginPerspective"/>
+<perspective_action id="com.genuitec.eclipse.uml.umlPerspective"/>
+<perspective_action id="com.genuitec.myeclipse.perspective.myeclipseperspective"/>
+<perspective_action id="com.genuitec.eclipse.web20.perspective"/>
+<perspective_action id="com.genuitec.eclipse.reporting.ReportPerspective"/>
+<perspective_action id="org.eclipse.datatools.sqltools.sqleditor.perspectives.EditorPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.wst.xml.ui.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<fastViewBars>&#x0A;<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@7e7188" orientation="512" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.ui.console.ConsoleView" ratio="0.16710876"/>
+<view id="org.eclipse.ui.views.TaskList" ratio="0.3"/>
+<view id="com.genuitec.javascript.debug.ui.scriptView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="org.eclipse.debug.internal.ui.OutlineFolderView" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@d9f6cb">&#x0A;<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView" ratio="0.08395324" ratioLeft="158" ratioRight="1724" relationship="2" relative="org.eclipse.ui.internal.ViewStack@d9f6cb">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="com.genuitec.eclipse.ast.deploy.core.serverview" label="LabelNotFound"/>
+<page content="org.eclipse.dltk.ui.ScriptExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74960214" ratioLeft="1413" ratioRight="472" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7491749" ratioLeft="681" ratioRight="228" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.atf.mozilla.ide.ui.views.console" label="LabelNotFound"/>
+<page content="org.eclipse.atf.mozilla.ide.ui.views.xhrmon" label="LabelNotFound"/>
+<page content="org.eclipse.datatools.sqltools.result.resultView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
+<page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
+<page content="org.eclipse.wst.xsl.jaxp.debug.ui.view1" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.4493392" ratioLeft="306" ratioRight="375" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.74960214" ratioLeft="1413" ratioRight="472" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<page content="org.eclipse.atf.mozilla.ide.ui.views.inspector" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@7e7188" ratio="0.87332946" ratioLeft="1503" ratioRight="218" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="com.genuitec.javascript.debug.ui.scriptView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.49973476" ratioLeft="942" ratioRight="943" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.atf.mozilla.ide.debug.ui.scriptview" label="LabelNotFound"/>
+<page content="org.eclipse.dltk.debug.ui.ScriptDisplayView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.genuitec.eclipse.sqlexplorer.perspectives.SQLExplorerPluginPerspective" id="com.genuitec.eclipse.sqlexplorer.perspectives.SQLExplorerPluginPerspective" label="MyEclipse Database Explorer"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.test.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.desktop"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.screencapture"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.examples.actionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.hibernatetools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webtools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.j2eedt.core.ejb"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jsftools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.faceletstools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.maven.pro.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jpatools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.portlet.portletactions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.reporting"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.springtools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.strutstools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.tapestrytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.restsupport"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.ws.xfire.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webservices"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.JavaScriptActionSet"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.A_OpenActionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.icefaces"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.about.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.product.actions"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.matcher.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.search.actionSet"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.web20.actionset"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.views.DatabaseView"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.views.SQLResultsView"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.views.ConnectionInfo"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.views.TableInfoView"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.views.SQLHistoryView"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.views.EditDataView"/>
+<show_view_action id="com.genuitec.eclipse.erdesigner.OverviewView"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.oracle.views.SourceErrorsView"/>
+<new_wizard_action id="com.genuitec.eclipse.sqlexplorer.wizards.sqleditor"/>
+<new_wizard_action id="com.genuitec.eclipse.reporting.projectwizard"/>
+<perspective_action id="com.genuitec.eclipse.dehory.dehoryperspective"/>
+<perspective_action id="com.genuitec.eclipse.hibernate.perspective.HibernatePerspective"/>
+<perspective_action id="com.genuitec.eclipse.imageeditor.perspective"/>
+<perspective_action id="com.genuitec.dali.adapter.persistencePerspective"/>
+<perspective_action id="com.genuitec.eclipse.reporting.ReportPerspective"/>
+<perspective_action id="com.genuitec.eclipse.uml.umlPerspective"/>
+<perspective_action id="com.genuitec.myeclipse.perspective.myeclipseperspective"/>
+<perspective_action id="com.genuitec.eclipse.web20.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<fastViews>&#x0A;<view id="com.genuitec.eclipse.sqlexplorer.views.DatabaseView" ratio="0.2992345"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer" ratio="0.29973474"/>
+</fastViews>
+<fastViewBars>&#x0A;<fastViewBar fastViewLocation="1024" id="bottom" orientation="256" selectedTabId="com.genuitec.eclipse.sqlexplorer.views.SQLResultsView" style="0">&#x0A;<fastViews>&#x0A;<view id="com.genuitec.eclipse.sqlexplorer.views.SQLResultsView" ratio="0.3"/>
+<view id="com.genuitec.eclipse.sqlexplorer.views.SQLHistoryView" ratio="0.3"/>
+<view id="com.genuitec.eclipse.sqlexplorer.views.ConnectionInfo" ratio="0.3"/>
+<view id="com.genuitec.eclipse.sqlexplorer.views.TableInfoView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="stickyFolderRight" orientation="512" selectedTabId="org.eclipse.help.ui.HelpView" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.help.ui.HelpView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="cvslocation">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7497309" ratioLeft="1393" ratioRight="465" relationship="2" relative="cvslocation">&#x0A;<folder appearance="2" expanded="0">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2497309" ratioLeft="464" ratioRight="1394" relationship="2" relative="cvslocation"/>
+<info folder="true" part="bottom" ratio="0.49944994" ratioLeft="454" ratioRight="455" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="0">&#x0A;<page content="com.genuitec.eclipse.sqlexplorer.views.SQLResultsView" label="LabelNotFound"/>
+<page content="com.genuitec.eclipse.sqlexplorer.views.SQLHistoryView" label="LabelNotFound"/>
+<page content="com.genuitec.eclipse.sqlexplorer.views.ConnectionInfo" label="LabelNotFound"/>
+<page content="com.genuitec.eclipse.sqlexplorer.views.TableInfoView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="topLeft" ratio="0.39933994" ratioLeft="363" ratioRight="546" relationship="4" relative="cvslocation">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="com.genuitec.eclipse.sqlexplorer.views.DatabaseView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="0" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.genuitec.eclipse.persistence.jpa.perspective.PersistencePerspective" id="com.genuitec.dali.adapter.persistencePerspective" label="MyEclipse Java Persistence"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.test.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.desktop"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.screencapture"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.examples.actionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.hibernatetools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webtools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.j2eedt.core.ejb"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jsftools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.faceletstools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.maven.pro.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jpatools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.portlet.portletactions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.reporting"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.springtools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.strutstools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.tapestrytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.restsupport"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.ws.xfire.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webservices"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.JavaScriptActionSet"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.A_OpenActionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.icefaces"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.about.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.product.actions"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.matcher.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.search.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+<show_view_action id="org.eclipse.dali.ui.persistenceOutlineView"/>
+<show_view_action id="org.eclipse.dali.ui.persistencePropertiesView"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.views.DatabaseView"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.views.TableInfoView"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.EJBProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.NewEARProjectWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.WebProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.ws.xfire.wizards.NewXFireWebProjectWizard1"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.hibernate.newconfigwizard"/>
+<new_wizard_action id="com.genuitec.eclipse.hibernate.newsessionfactorywizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.reporting.projectwizard"/>
+<perspective_action id="com.genuitec.eclipse.dehory.dehoryperspective"/>
+<perspective_action id="com.genuitec.eclipse.hibernate.perspective.HibernatePerspective"/>
+<perspective_action id="com.genuitec.eclipse.imageeditor.perspective"/>
+<perspective_action id="com.genuitec.eclipse.reporting.ReportPerspective"/>
+<perspective_action id="com.genuitec.eclipse.sqlexplorer.perspectives.SQLExplorerPluginPerspective"/>
+<perspective_action id="com.genuitec.eclipse.uml.umlPerspective"/>
+<perspective_action id="com.genuitec.myeclipse.perspective.myeclipseperspective"/>
+<perspective_action id="com.genuitec.eclipse.web20.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.help.ui.HelpView"/>
+<fastViewBars>&#x0A;<fastViewBar fastViewLocation="131072" id="queryParams" orientation="512" selectedTabId="org.eclipse.dali.ui.persistenceOutlineView" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.dali.ui.persistenceOutlineView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="bottomLeft" orientation="256" selectedTabId="com.genuitec.eclipse.sqlexplorer.views.TableInfoView" style="0">&#x0A;<fastViews>&#x0A;<view id="com.genuitec.eclipse.sqlexplorer.views.TableInfoView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@19aed36" orientation="512" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="packageExplorer" orientation="512" selectedTabId="org.eclipse.jdt.ui.PackageExplorer" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.jdt.ui.PackageExplorer" ratio="0.1846071"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="cvslocation">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7497309" ratioLeft="1393" ratioRight="465" relationship="2" relative="cvslocation">&#x0A;<folder activePageID="org.eclipse.help.ui.HelpView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="Help"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19967707" ratioLeft="371" ratioRight="1487" relationship="2" relative="cvslocation"/>
+<info folder="true" part="bottomLeft" ratio="0.7491749" ratioLeft="681" ratioRight="228" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="com.genuitec.eclipse.sqlexplorer.views.TableInfoView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="bottomRight" ratio="0.49966374" ratioLeft="743" ratioRight="744" relationship="2" relative="bottomLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.dali.ui.persistencePropertiesView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="queryParams" ratio="0.81237394" ratioLeft="1208" ratioRight="279" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.dali.ui.persistenceOutlineView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@19aed36" ratio="0.8512129" ratioLeft="1579" ratioRight="276" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="dbTree" ratio="0.39933994" ratioLeft="363" ratioRight="546" relationship="4" relative="cvslocation">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="com.genuitec.eclipse.sqlexplorer.views.DatabaseView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="packageExplorer" ratio="0.49944994" ratioLeft="454" ratioRight="455" relationship="4" relative="dbTree">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.genuitec.eclipse.reporting.core.ReportPerspective" id="com.genuitec.eclipse.reporting.ReportPerspective" label="MyEclipse Report Design"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.test.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.desktop"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.screencapture"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.examples.actionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.hibernatetools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webtools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.j2eedt.core.ejb"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jsftools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.faceletstools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.maven.pro.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jpatools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.portlet.portletactions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.reporting"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.springtools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.strutstools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.tapestrytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.restsupport"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.ws.xfire.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webservices"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.JavaScriptActionSet"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.A_OpenActionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.icefaces"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.about.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.product.actions"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.matcher.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.search.actionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.gef.ui.palette_view"/>
+<show_view_action id="org.eclipse.birt.report.designer.ui.attributes.AttributeView"/>
+<show_view_action id="org.eclipse.birt.report.designer.ui.views.data.DataView"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.views.DatabaseView"/>
+<show_view_action id="org.eclipse.birt.report.designer.ui.lib.explorer.view"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="com.genuitec.eclipse.sqlexplorer.views.TableInfoView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.birt.report.designer.ui.ide.wizards.NewReportWizard"/>
+<new_wizard_action id="org.eclipse.birt.report.designer.ui.ide.wizards.NewTemplateWizard"/>
+<new_wizard_action id="org.eclipse.birt.report.designer.ui.wizards.NewLibraryWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.reporting.projectwizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.EJBProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.NewEARProjectWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.WebProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.ws.xfire.wizards.NewXFireWebProjectWizard1"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<perspective_action id="com.genuitec.eclipse.hibernate.perspective.HibernatePerspective"/>
+<perspective_action id="com.genuitec.eclipse.sqlexplorer.perspectives.SQLExplorerPluginPerspective"/>
+<perspective_action id="com.genuitec.myeclipse.perspective.myeclipseperspective"/>
+<perspective_action id="com.genuitec.eclipse.uml.umlPerspective"/>
+<perspective_action id="com.genuitec.eclipse.imageeditor.perspective"/>
+<perspective_action id="com.genuitec.eclipse.web20.perspective"/>
+<perspective_action id="com.genuitec.dali.adapter.persistencePerspective"/>
+<perspective_action id="com.genuitec.eclipse.dehory.dehoryperspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.gef.ui.palette_view"/>
+<view id="org.eclipse.birt.report.designer.ui.views.data.DataView"/>
+<view id="com.genuitec.eclipse.sqlexplorer.views.DatabaseView"/>
+<view id="org.eclipse.birt.report.designer.ui.lib.explorer.view"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.birt.report.designer.ui.attributes.AttributeView"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="com.genuitec.eclipse.sqlexplorer.views.TableInfoView"/>
+<view id="com.genuitec.eclipse.ast.deploy.core.serverview"/>
+<view id="org.eclipse.help.ui.HelpView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.eclipse.gef.ui.palette_view" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.gef.ui.palette_view" label="Palette"/>
+<page content="org.eclipse.birt.report.designer.ui.views.data.DataView" label="Data Explorer"/>
+<page content="com.genuitec.eclipse.sqlexplorer.views.DatabaseView" label="DB Browser"/>
+<page content="org.eclipse.birt.report.designer.ui.lib.explorer.view" label="Library Explorer"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1f1ff6b" ratio="0.7003667" ratioLeft="1337" ratioRight="572" relationship="2" relative="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="Help"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19982395" ratioLeft="227" ratioRight="909" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottom" ratio="0.65984654" ratioLeft="516" ratioRight="266" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="com.genuitec.eclipse.ast.deploy.core.serverview" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.birt.report.designer.ui.attributes.AttributeView" label="Property Editor"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="com.genuitec.eclipse.sqlexplorer.views.TableInfoView" label="Table/Object Info"/>
+<page content="com.genuitec.eclipse.ast.deploy.core.serverview" label="Servers"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="bottomLeft" ratio="0.23876765" ratioLeft="186" ratioRight="593" relationship="4" relative="topLeft">&#x0A;<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="WTP Java EE (MyEclipse incompatible)"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.test.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.desktop"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.screencapture"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.examples.actionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.hibernatetools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webtools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.j2eedt.core.ejb"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jsftools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.faceletstools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.maven.pro.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jpatools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.portlet.portletactions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.reporting"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.springtools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.strutstools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.tapestrytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.restsupport"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.ws.xfire.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webservices"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.JavaScriptActionSet"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.A_OpenActionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.icefaces"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.about.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.product.actions"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.matcher.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.search.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.ui.views.AllMarkersView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<fastViews>
+<view id="org.eclipse.ui.views.PropertySheet" ratio="0.3"/>
+</fastViews>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="org.eclipse.ui.internal.ViewStack@2b24e8" orientation="512" selectedTabId="org.eclipse.help.ui.HelpView" style="0">
+<fastViews>
+<view id="org.eclipse.help.ui.HelpView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@2b24e8" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.11786275" ratioLeft="225" ratioRight="1684" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.6998972" ratioLeft="681" ratioRight="292" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@eb059d" ratio="0.8680851" ratioLeft="816" ratioRight="124" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+<hiddenWindow height="250" width="676" x="382" y="627">
+<view id="org.eclipse.ui.views.AllMarkersView"/>
+</hiddenWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/MyJSP/WebContent/aa.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BookManagerSystem/src/com/hopu/bms/BookStsart.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BookManagerSystem/src/com/hopu/bms/entiy/Borrow.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BookManagerSystem/src/com/hopu/bms/Logborrow.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BookManagerSystem/src/com/hopu/bms/Logininfo.java"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/D:/组长：廖志雄/吕世达/TestTradersTransactions.java"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/D:/组长：廖志雄/徐彝研/Test.java"/>
+</editors>
+<item historyLabel="aa.jsp" index="0"/>
+<item historyLabel="BookStsart.java" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="aa.jsp" index="0"/>
+<item historyLabel="Borrow.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="aa.jsp" index="0"/>
+<item historyLabel="Logborrow.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="aa.jsp" index="0"/>
+<item historyLabel="Logininfo.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="TestTradersTransactions.java" index="5">
+<position info="not_deleted" x="1246" y="0"/>
+</item>
+<item historyLabel="Test.java" index="6">
+<position info="not_deleted" x="878" y="0"/>
+</item>
+<item historyLabel="TestTradersTransactions.java" index="5">
+<position info="not_deleted" x="928" y="0"/>
+</item>
+<item historyLabel="Test.java" index="6">
+<position info="not_deleted" x="983" y="0"/>
+</item>
+<item historyLabel="TestTradersTransactions.java" index="5">
+<position info="not_deleted" x="746" y="0"/>
+</item>
+<item historyLabel="Test.java" index="6">
+<position info="not_deleted" x="983" y="0"/>
+</item>
+<item historyLabel="TestTradersTransactions.java" index="5">
+<position info="not_deleted" x="746" y="0"/>
+</item>
+<item historyLabel="Test.java" index="6">
+<position info="not_deleted" x="983" y="0"/>
+</item>
+<item historyLabel="TestTradersTransactions.java" index="5">
+<position info="not_deleted" x="835" y="0"/>
+</item>
+<item historyLabel="Test.java" index="6">
+<position info="not_deleted" x="1011" y="0"/>
+</item>
+<item historyLabel="TestTradersTransactions.java" index="5">
+<position info="not_deleted" x="849" y="0"/>
+</item>
+<item historyLabel="Test.java" index="6">
+<position info="not_deleted" x="804" y="0"/>
+</item>
+<item historyLabel="TestTradersTransactions.java" index="5">
+<position info="not_deleted" x="932" y="0"/>
+</item>
+<item historyLabel="Test.java" index="6">
+<position info="not_deleted" x="804" y="0"/>
+</item>
+<item historyLabel="TestTradersTransactions.java" index="5">
+<position info="not_deleted" x="1156" y="0"/>
+</item>
+<item historyLabel="Test.java" index="6">
+<position info="not_deleted" x="804" y="0"/>
+</item>
+<item active="true" historyLabel="TestTradersTransactions.java" index="5">
+<position info="not_deleted" x="1156" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@2b24e8"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="D:\组长：廖志雄\徐彝研\Test.java">
+<persistable uri="file:/D:/组长：廖志雄/徐彝研/Test.java"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTradersTransactions.java" tooltip="D:\组长：廖志雄\吕世达\TestTradersTransactions.java">
+<persistable uri="file:/D:/组长：廖志雄/吕世达/TestTradersTransactions.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Logininfo.java" tooltip="BookManagerSystem/src/com/hopu/bms/Logininfo.java">
+<persistable path="/BookManagerSystem/src/com/hopu/bms/Logininfo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Logborrow.java" tooltip="BookManagerSystem/src/com/hopu/bms/Logborrow.java">
+<persistable path="/BookManagerSystem/src/com/hopu/bms/Logborrow.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Borrow.java" tooltip="BookManagerSystem/src/com/hopu/bms/entiy/Borrow.java">
+<persistable path="/BookManagerSystem/src/com/hopu/bms/entiy/Borrow.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BookStsart.java" tooltip="BookManagerSystem/src/com/hopu/bms/BookStsart.java">
+<persistable path="/BookManagerSystem/src/com/hopu/bms/BookStsart.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" name="web.xml" tooltip="MyJSP/WebContent/WEB-INF/web.xml">
+<persistable path="/MyJSP/WebContent/WEB-INF/web.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="aa.jsp" tooltip="MyJSP/WebContent/aa.jsp">
+<persistable path="/MyJSP/WebContent/aa.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" name="web.xml" tooltip="MyJSP/WebRoot/WEB-INF/web.xml">
+<persistable path="/MyJSP/WebRoot/WEB-INF/web.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestJDBC4.java" tooltip="TestJdbc/src/UtilDemo/TestJDBC4.java">
+<persistable path="/TestJdbc/src/UtilDemo/TestJDBC4.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestUtil.java" tooltip="TestJdbc/src/UtilDemo/TestUtil.java">
+<persistable path="/TestJdbc/src/UtilDemo/TestUtil.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="caishuzi.java" tooltip="test/src/caishuzi.java">
+<persistable path="/test/src/caishuzi.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ff1.java" tooltip="test/src/ff1.java">
+<persistable path="/test/src/ff1.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="dlui.java" tooltip="aaa/src/dlui.java">
+<persistable path="/aaa/src/dlui.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyEclipseGen.java" tooltip="jh/src/MyEclipseGen.java">
+<persistable path="/jh/src/MyEclipseGen.java"/>
+</file>
+</mruList>
+</workbench>

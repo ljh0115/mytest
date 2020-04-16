@@ -1,0 +1,24 @@
+package com.hopu.bms.ui;
+
+import java.sql.SQLException;
+import java.util.Scanner;
+import com.hopu.bms.Logininfo;
+
+public class LoginUI {
+	//登录界面
+	public static void main(String[] args) throws SQLException {
+		Scanner s=new Scanner(System.in);
+		System.out.println("请输入账号");
+		String user=s.next();
+		System.out.println("请输入密码");
+		String pwd=s.next();
+		//调用方法 判断是否有该账号
+		if(Logininfo.login(user, pwd)){
+			System.out.println("登录成功");
+			//调用方法 进入主菜单
+		}else{
+			System.out.println("登陆失败");
+		}
+	}
+	//注册界面
+}

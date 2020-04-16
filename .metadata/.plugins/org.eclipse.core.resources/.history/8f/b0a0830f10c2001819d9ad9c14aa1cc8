@@ -1,0 +1,72 @@
+package Demo2;
+
+public class Student2 {
+	private String stuNo;
+	private String name;
+	private char sex;
+	private String stuClass;
+	private int age;
+	private double score;
+	public String getStuNo() {
+		return stuNo;
+	}
+	public void setStuNo(String stuNo) {
+		this.stuNo = stuNo;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public char getSex() {
+		return sex;
+	}
+	public void setSex(char sex) {
+		this.sex = sex;
+	}
+	public String getStuClass() {
+		return stuClass;
+	}
+	public void setStuClass(String stuClass) {
+		this.stuClass = stuClass;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public double getScore() {
+		return score;
+	}
+	public void setScore(double score) {
+		this.score = score;
+	}
+	public String p1(Student[] arr){
+	for(int i=0;i<arr.length;i++)
+
+			
+	
+	
+	}
+	}
+	public Student2(String stuNo, String name, char sex, String stuClass,
+			int age, double score) {
+		this.stuNo = stuNo;
+		this.name = name;
+		this.sex = sex;
+		this.stuClass = stuClass;
+		this.age = age;
+		this.score = score;
+	}
+	public static void main(String[] args) {
+		Student2 s1=new Student2("111", "À×³¬", 'ÄÐ', "2°à", 19, 89);
+		Student2 s2=new Student2("111", "À×³¬", 'ÄÐ', "2°à", 19, 67);
+		Student2 s3=new Student2("111", "À×³¬", 'ÄÐ', "2°à", 19, 90);
+		Student2 s4=new Student2("111", "À×³¬", 'ÄÐ', "2°à", 19, 45);
+		Student2 s5=new Student2("111", "À×³¬", 'ÄÐ', "2°à", 19, 78);
+		Student[] arr={s1,s2,s3,s4,s5};
+	}
+	
+}

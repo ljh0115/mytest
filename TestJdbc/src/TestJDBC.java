@@ -1,0 +1,46 @@
+
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+/*
+
+	JDBC的概念：
+
+ 		是一种连接数据库的技术
+ 		实现了java可以对各种数据库的访问
+ 		由一些java程序编写类和接口组成 （JDBC API）
+ 
+ 	JDBC连接数据库：
+ 
+ 		1.导入驱动包
+ 		2.加载驱动类
+ 			Class.forName("类名");
+ 		3.获取数据库连接
+			DriverManager.getConnection(url,userName,password);
+ */
+public class TestJDBC {
+	public static void main(String[] args) {
+		//驱动类
+		String driver="com.microsoft.sqlserver.jdbc.SQLServerDriver";
+		//连接地址
+		String url="jdbc:sqlserver://127.0.0.1:1433;databaseName=TestJDBC";
+		//用户名
+		String user="sa";
+		//密码
+		String pwd="1320217325";
+
+		try {
+			//加载驱动类
+			Class.forName(driver);
+			//获取连接
+			DriverManager.getConnection(url, user, pwd);
+			System.out.println("连接成功");
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+}

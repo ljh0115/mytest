@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 1 package(s) to &apos;BookManagerSystem/src&apos;&#x0D;&#x0A;- Original project: &apos;jh&apos;&#x0D;&#x0A;- Destination element: &apos;BookManagerSystem/src&apos;&#x0D;&#x0A;- Original element: &apos;jh/src/com.hopu.bms&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=BookManagerSystem/src" element1="/src&lt;com.hopu.bms" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1540263240553" version="1.0"/>
+</session>

@@ -1,0 +1,44 @@
+
+public class lx8 {
+	public void main(String[] args) {
+		Testlx8 a=new Testlx8();
+		a.setName("张三");
+		a.setAge(1000);
+		System.out.println(a.getName()+"的年龄："+a.getAge());
+	}
+	class Testlx8{
+		private String name;
+		private int age;
+		public String getName() {
+			return name;
+		}
+		public void setName(String name) {
+			this.name = name;
+		}
+		public int getAge() {
+			return age;
+		}
+		public void setAge(int age) {
+			if(age<0){
+				//抛出自定义异常
+				throw new AgeLT0Exception();
+			}if(age>150){
+				throw new AgeGT150Exception();
+			}
+			this.age = age;
+		}
+	}
+	//自定义异常 
+	@SuppressWarnings("serial")
+	class AgeLT0Exception extends RuntimeException{
+		public  AgeLT0Exception() {
+			super("年龄异常");
+		}
+	}
+	@SuppressWarnings("serial")
+	class AgeGT150Exception extends RuntimeException{
+		public  AgeGT150Exception() {
+			super("年龄异常");
+		}
+	}
+}
